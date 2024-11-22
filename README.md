@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anuj Agnihotri  </h1>
 <h3 align="center">🚀 Final Year CS Student | Android Developer Enthusiast | Mobile Innovator</h3>
 
-
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" width="600" />
-</p>
-
 ---
+
+<img align="right" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" width='380'/>
+  
+
+
 
 ### 🌟 About Me
 
