@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" width='380'/>
+<img align="right" src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" width='300'/>
   
 
 
@@ -77,9 +77,9 @@ suspicious activity.
 </p>
 
 ---
+<img align="right" src="https://media.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width='250'/>
 
 ### 🌐 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/-anuj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -92,9 +92,11 @@ suspicious activity.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width="400" />
-</p>
+
+
+- **Gmail:** anujagni2001@gmail.com
+- **GitHub:** [anuj-i10](https://github.com/anuj-i10)
+- **LinkedIn:** [anuj](https://www.linkedin.com/in/-anuj)
 
 ---
 
