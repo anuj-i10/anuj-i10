@@ -77,7 +77,6 @@ suspicious activity.
 </p>
 
 ---
-<img align="right" src="https://media.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width='250'/>
 
 ### 🌐 Connect with Me
 <p align="center">
